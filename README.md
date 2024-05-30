@@ -66,6 +66,4 @@ Descarga el proyecto en este link: [https://github.com/Jahrming/PROYECTO-HUMANO-
 - sh
 - python chat.py
 
-### 8. Implementación (opcional)
-### Para la implementación en una aplicación web, sigue el tutorial del autor para configurar app.py y app.js.
 
